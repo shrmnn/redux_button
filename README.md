@@ -1,4 +1,6 @@
 # Superkassa: Тестовое задание
+![Скриншот приложения](https://sun9-63.userapi.com/iUBZPyiWh7ItRb9OsbIEL0-9UeJQvIz4FxMmHA/nLLPA_ojr0s.jpg "Скриншот приложения.")
+
 
 ## Задача:
 
@@ -19,3 +21,14 @@
 + React _(with hooks)_
 + Redux _(react-redux)_
 + WebSocket
+
+## Запуск
+**Сервер:**
+
+В категории src/Server запустить команду
+> `node server.js`
+
+**Клиент:**
+
+Запускается командой 
+> `npm start`
