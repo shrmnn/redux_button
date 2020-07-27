@@ -1,0 +1,21 @@
+.Button {
+    border-radius: 50px;
+    background: var(--bg-color);
+    box-shadow: 20px 20px 60px var(--box-color_1),
+    -20px -20px 60px var(--box-color_2);
+    border-color: var(--bg-color);
+    border-width: 0px;
+    outline: 0;
+    height: 150px;
+    width: 150px;
+    font-size: 3em;
+    color: #0c1b24;
+}
+
+.Button:active, .Button-active {
+    color: rgba(255, 255, 255, 0.255);
+    border-radius: 50px;
+    background: var(--bg-color);
+    box-shadow: inset 6px 6px 10px 0 var(--box-color_1),
+    inset -6px -6px 10px 0 var(--box-color_2);
+}

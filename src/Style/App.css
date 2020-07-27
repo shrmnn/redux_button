@@ -1,0 +1,25 @@
+.Red {
+    --bg-color: rgb(243, 83, 83);
+    --box-color_1: rgb(207, 71, 71);
+    --box-color_2: rgb(255, 95, 95);
+}
+
+.Green {
+    --bg-color: rgb(83, 243, 131);
+    --box-color_1: rgb(71, 207, 111);
+    --box-color_2: rgb(95, 255, 151);
+}
+
+.Container {
+    height: auto;
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+
+
