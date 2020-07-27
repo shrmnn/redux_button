@@ -18,5 +18,4 @@
 
 + React _(with hooks)_
 + Redux _(react-redux)_
-+ Redux-thunk
 + WebSocket
